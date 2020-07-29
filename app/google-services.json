@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832978688316",
+    "firebase_url": "https://medreports-1ccdb.firebaseio.com",
+    "project_id": "medreports-1ccdb",
+    "storage_bucket": "medreports-1ccdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832978688316:android:d648043e2cf7ea5a6e2639",
+        "android_client_info": {
+          "package_name": "com.example.medreports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832978688316-cerser03dijctdjqu00haei4apbdchiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALV0UH31jrNtdRBjzsTcEr-g2Uf8kwDO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832978688316-cerser03dijctdjqu00haei4apbdchiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

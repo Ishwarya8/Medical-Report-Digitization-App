@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedReport</string>
+    <string name="reg"><u>New user? Register</u></string>
+    <string name="log"><u>Already registered? Login</u></string>
+    <string name="fog"><u>Forgot Password?</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">navigation</string>
+</resources>
